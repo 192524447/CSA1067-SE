@@ -3,4 +3,4 @@ CSA1067 - Software Engineering for Real Time Applications
 
 Variganji Sumanth Babu - 192524447
 
-List of Experiments - Excectued Proof Screenshots
+Experiments (Ex 16 - 30)- Excectued Proof Screenshots
